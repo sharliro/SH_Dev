@@ -151,7 +151,7 @@ body {
 }
 
 .section-heading h6 {
-  color: #ee626b;
+  color:#c7000d;
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 700;
@@ -159,7 +159,7 @@ body {
 
 .main-button a {
   display: inline-block;
-  background-color: #ee626b;
+  background-color: #c7000d;
   text-transform: uppercase;
   color: #fff;
   font-size: 14px;
@@ -389,13 +389,13 @@ Header Style
 }
 
 .header-area .main-nav .nav li:last-child a {
-  background-color: #ee626b;
+  background-color: #c7000d ;
   text-transform: uppercase;
   font-weight: 500;
 }
 
 .header-area .main-nav .nav li:last-child:hover a {
-  background-color: #ee626b;
+  background-color: #c7000d;
 }
 
 .header-area .main-nav .nav li:hover a {
@@ -715,7 +715,7 @@ Banner Style
   display: inline-block;
   height: 50px;
   line-height: 50px;
-  background-color: #ee626b;
+  background-color: #c7000d;
   color: #fff;
   font-size: 15px;
   text-transform: uppercase;
@@ -759,7 +759,7 @@ Banner Style
   left: -25px;
   bottom: -25px;
   border-radius: 50%;
-  background-color: #ee626b;
+  background-color: #c7000d;
   font-size: 28px;
   text-transform: uppercase;
   font-weight: 700;
@@ -899,7 +899,7 @@ Trending Style
   line-height: 40px;
   width: 60px;
   height: 40px;
-  background-color: #ee626b;
+  background-color: #be0310;
   color: #fff;
   border-radius: 10px;
   right: 25px;
@@ -1224,7 +1224,7 @@ Shop Page Style
 }
 
 .trending ul.trending-filter li a.is_active {
-  background-color: #ee626b;
+  background-color: #d8000e;
   color: #fff;
 }
 
@@ -1296,7 +1296,7 @@ Shop Page Style
   line-height: 40px;
   width: 70px;
   height: 40px;
-  background-color: #ee626b;
+  background-color: #d80a18;
   color: #fff;
   border-radius: 10px;
   right: 25px;
@@ -1374,7 +1374,7 @@ Single Page Style
 .single-product span.price {
   font-size: 27px;
   font-weight: 700;
-  color: #0071f8;
+  color: #000000;
 }
 
 .single-product span.price em {
@@ -1410,8 +1410,8 @@ Single Page Style
   display: inline-block;
   height: 50px;
   line-height: 50px;
-  background-color: #ee626b;
-  color: #fff;
+  background-color: #050505;
+  color: #ad0202;
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 500;
@@ -1426,7 +1426,7 @@ Single Page Style
 }
 
 .single-product form button:hover {
-  background-color: #0071f8;
+  background-color: #d60000;
 }
 
 .single-product ul {
@@ -1437,7 +1437,7 @@ Single Page Style
   display: block;
   margin: 20px 0px;
   font-size: 14px;
-  color: #0071f8;
+  color: #1305ca;
 }
 
 .single-product ul li:last-child {
@@ -1573,7 +1573,7 @@ Contact PAge Style
   display: inline-block;
   height: 50px;
   line-height: 50px;
-  background-color: #ee626b;
+  background-color: #c7000d;
   color: #fff;
   font-size: 15px;
   text-transform: uppercase;
